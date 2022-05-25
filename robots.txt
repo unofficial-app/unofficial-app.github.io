@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://unofficial-app.github.io/sitemap.xml
